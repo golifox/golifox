@@ -68,14 +68,9 @@
 - **Description:** Simple DSL for create reusable validation schemas in Rails using dry-schema.
 - **Technologies Used:** Ruby, Rspec
 
-#### [level_travel_rails](https://github.com/golifox/level_travel_rails)
-- **Description:** Wrapper for LevelTravel seach and booking API.
+#### [api-response-presenter](https://github.com/golifox/api-response-presenter)
+- **Description:** Monadic wrapper for external API responses.
 - **Technologies Used:** Ruby, Rspec
-
-#### [kosnierge_gpt_bot](https://github.com/golifox/konsierge_gpt_bot)
-- **Description** ChatGPT telegram bot provided for clients of KONSIERGE service.
-- **Technologies** Python, Aiogram, SQLAlchemy, pytest
-
 ---
 
 
