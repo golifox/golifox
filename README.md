@@ -11,7 +11,7 @@ reliable delivery, request signing, API contracts, and integrations with payment
 <p>
   <a href="mailto:golifox911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/golifox"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.linkedin.com/in/david-fisher-36734a263"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/golifox"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ### Open-source gems
